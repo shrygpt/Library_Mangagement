@@ -20,4 +20,16 @@ A terminal/command prompt
 No additional Python packages are required
 This project uses only Python's built-in functions.
 
-###
+## Project Setup
+### 1. Download or clone the project
+If the project is stored in a Git repository, clone it using:
+git clone <(https://github.com/shrygpt/Library_Mangagement/tree/main)>
+Then move into the project directory:
+cd <project-directory>
+If you already have the Python file, simply place it in a directory of your choice.
+### 2. Check your Python installation
+Open a terminal and run:
+python --version
+On some systems, especially Linux/macOS, you may need:
+python3 --version
+You should see Python 3.8 or a newer version.
