@@ -24,11 +24,27 @@ This project uses only Python's built-in functions.
 ### 1. Download or clone the project
 If the project is stored in a Git repository, clone it using:\
 git clone <https://github.com/shrygpt/Library_Mangagement/tree/main>\
-Then move into the project directory:\
-cd <project-direct>
+Then move into the project directory
 ### 2. Check your Python installation
 Open a terminal and run:\
 python --version\
 On some systems, especially Linux/macOS, you may need:\
 python3 --version\
 You should see Python 3.8 or a newer version.
+
+## Running the Project
+Navigate to the directory containing the Python file and run:
+python Library.py
+
+## Future Improvements
+Possible improvements include:
+Fixing book-count handling when books are donated
+Adding proper validation for user input
+Preventing duplicate books
+Adding persistent storage using a database or JSON file
+Adding user/member records
+Tracking issue and return dates
+Adding due-date calculations
+Improving the command-line interface
+Separating the application into multiple Python modules
+Adding automated tests
