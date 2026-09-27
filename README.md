@@ -37,14 +37,14 @@ Navigate to the directory containing the Python file and run:
 python Library.py
 
 ## Future Improvements
-Possible improvements include:
-Fixing book-count handling when books are donated
-Adding proper validation for user input
-Preventing duplicate books
-Adding persistent storage using a database or JSON file
-Adding user/member records
-Tracking issue and return dates
-Adding due-date calculations
-Improving the command-line interface
-Separating the application into multiple Python modules
+Possible improvements include:\
+Fixing book-count handling when books are donated\
+Adding proper validation for user input\
+Preventing duplicate books\
+Adding persistent storage using a database or JSON file\
+Adding user/member records\
+Tracking issue and return dates\
+Adding due-date calculations\
+Improving the command-line interface\
+Separating the application into multiple Python modules\
 Adding automated tests
