@@ -4,3 +4,20 @@ This project introduces Library management. It explains how management of Librar
 
 ##PYTHON
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library. 
+
+##FEATURES
+View all books in the library
+Donate/add a new book
+Issue a book
+Search books by:Book name, Genre, Author
+Return a book
+Exit
+
+##Requirements
+Before running the project, make sure you have:
+Python Application with version 3.8 or later
+A terminal/command prompt
+No additional Python packages are required
+This project uses only Python's built-in functions.
+
+###
