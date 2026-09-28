@@ -21,9 +21,9 @@ The main target users of this project are:
 3. Issue Book
 4. Search Books\
 The system provides three search options:
-- Search by Book Name
-- Search by Genre
-- Search by Author
+Search by Book Name
+Search by Genre
+Search by Author
 5. Return Book
 6. Book Availability Tracking
 7. Menu-Driven Interface
