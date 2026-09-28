@@ -28,7 +28,7 @@ The system displays the details of all books currently stored in the library.
 ### 3. Issue Book
 Users can enter the name of a book they want to borrow. If the book is available, its status is changed to Not Available.
 ### 4. Search Books
-The system provides three search options:
+The system provides three search options:\
 Search by Book Name\
 Search by Genre\
 Search by Author\
