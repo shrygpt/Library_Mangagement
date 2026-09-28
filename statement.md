@@ -1,6 +1,5 @@
 ## Problem Statement
 Managing books manually in a library can be time-consuming and may lead to errors while keeping track of available and issued books. It can also be difficult to quickly find a book based on its name, genre, or author.\
-The Library Management System is a Python-based program designed to simplify basic library operations. It allows users to donate books, view all books in the library, issue books, search for books, and return books. The system maintains the availability status of each book so that users can easily know whether a book is available or already issued.\
 The main objective of this project is to provide a simple and user-friendly way to manage basic library activities using Python.
 ## Scope of the Project
 The scope of this project is to manage the basic operations of a small library through a simple Python program.\
@@ -11,8 +10,6 @@ Display all books available in the library.\
 Issue books to users and change their availability status.\
 Return issued books and make them available again.\
 Search for books by book name, genre, or author.\
-Provide a simple menu-driven interface for users.\
-The current project is intended for basic library management. It does not include advanced features such as databases, online book reservations, login systems, fine calculation, or automatic due-date management.
 ## Target Users
 The main target users of this project are:\
 Students — to search for and issue books easily.\
@@ -26,7 +23,7 @@ Small libraries — where a simple system is sufficient for maintaining book rec
 The system provides three search options:\
 Search by Book Name\
 Search by Genre\
-Search by Author\
+Search by Author
 ### 5. Return Book
 ### 6. Book Availability Tracking
 ### 7. Menu-Driven Interface
