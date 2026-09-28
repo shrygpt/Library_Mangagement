@@ -19,7 +19,7 @@ The main target users of this project are:
 1. Donate Book
 2. View Total Books
 3. Issue Book
-4. Search Books
+4. Search Books\
 The system provides three search options:\
 Search by Book Name\
 Search by Genre\
